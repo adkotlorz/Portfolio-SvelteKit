@@ -1,1 +1,5 @@
-<h3 class="text-green-100">Welcome to SvelteKit</h3>
+<script>
+  import Main from "../components/Main.svelte";
+</script>
+
+<Main />
