@@ -1,6 +1,6 @@
 ![Preview](https://i.ibb.co/Kx81qb4/Screenshot-1.png)
 
-## [Live Preview](https://ui-bold.netlify.app/)
+## [Live Preview](https://sveltekit-portfolio.netlify.app/)
 
 # NodeJS & NPM versions
 
